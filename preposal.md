@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+I am planing on doing a little game for young kids. But I still figured out what will be created.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Her name is Jingyan Deng.
 
 ## Do you have any questions of your own?
 
-TODO
+NO.
