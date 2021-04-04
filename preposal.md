@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-I am planing on doing a little game for young kids. But I still figured out what will be created.
+I am planing on doing a little game for young kids. But I still did not figure out what will be created.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
