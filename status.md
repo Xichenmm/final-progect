@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Xichen Mao
 
 #### Your section leader's name
 
-TODO
+None
 
 #### Project title
 
-TODO
+Remember Me
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We have designed different shapes and colors. There are only one pair of each color. We already drew the window and started the main game loop. 
 
 #### What have you not done for your project yet?
 
-TODO
+We have not finished the main game loop.
 
 #### What problems, if any, have you encountered?
 
-TODO
+We have trouble with the while loop.
