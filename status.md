@@ -6,7 +6,7 @@ Xichen Mao
 
 #### Your section leader's name
 
-None
+Xichen Mao
 
 #### Project title
 
